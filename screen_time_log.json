@@ -1,0 +1,40 @@
+{
+  "1970-01-01": {
+    "People2MoonIn4KBram.exe": 14601600,
+    "Intel.exe": 45964800,
+    "Amd.exe": 21168000,
+    "unicode.exe": 0,
+    "arpanet.exe": 5529600,
+    "HoustonProblem.exe": -8640000
+  },
+
+  "2025-08-12": {
+    "ShellExperienceHost.exe": 20,
+    "ApplicationFrameHost.exe": 1570,
+    "ShellHost.exe": 20,
+    "msedge.exe": 5890,
+    "explorer.exe": 2430,
+    "PickerHost.exe": 5,
+    "SearchHost.exe": 25,
+    "Acrobat.exe": 405,
+    "brave.exe": 75,
+    "pythonw3.13.exe": 195,
+    "SnippingTool.exe": 70,
+    "Clipchamp.exe": 155,
+    "Notepad.exe": 400,
+    "WindowsTerminal.exe": 80,
+    "VirtualBox.exe": 45,
+    "VirtualBoxVM.exe": 625,
+    "dllhost.exe": 35,
+    "Taskmgr.exe": 15,
+    "EpicGamesLauncher.exe": 10,
+    "steamwebhelper.exe": 5,
+    "upc.exe": 5,
+    "python3.13.exe": 35,
+    "LockApp.exe": 1535,
+    "Code.exe": 30,
+    "MarvelRivalsClient.exe": 3215,
+    "ACValhalla_Plus.exe": 2734,
+    "AC4BFSP.exe": 4501
+  }
+}
