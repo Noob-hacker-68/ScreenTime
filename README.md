@@ -1,4 +1,5 @@
 # ScreenTime
+<img width="1919" height="1003" alt="App UI" src="https://github.com/user-attachments/assets/cf30efba-60a0-4695-8864-0db24b175fcd" />
 A screen time tracker for your windows, you can view your daily screen time in charts, set time limits, select which apps to track and which not
 
 Tracks the apps only when in foreground and updates them every 5 seconds
