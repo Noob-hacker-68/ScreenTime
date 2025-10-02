@@ -12,3 +12,9 @@ Set alias for processes in the FRIENDLY_NAMES LIST
 You may, optionally, change the interval for updating the screen time on screen using the REFRESH_INTERVAL variable
 
 You can add the shortcut for "screen time logger.pyw" to run every time your pc boots by copying it into the startup folder by opening the run dialog box (Win + R) and typing "shell:startup", this will open the startup folder
+
+ADDED: ST Analyzer 
+Lets you see the total time used on an app since the beginning, rank the top apps by usage
+
+Running this tool: 1. Keep the tool in the same folder as the .json file
+                  2. If it doesn't start by simply double clicking, use the command prompt and manually start the program using `python "ST analyzer.py"` in the directory where the tool is stored
